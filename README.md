@@ -17,3 +17,7 @@ Risk Segmentation Analytics
 ## 📷 Dashboard Preview
 
 ![Dashboard](dashboard.png)
+
+## 📷 Dashboard Preview
+
+![Dashboard](preview.png)
