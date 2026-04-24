@@ -16,8 +16,4 @@ Data Cleaning
 Risk Segmentation Analytics
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard_preview.png)
-
-## 📷 
-
-![Dashboard](dashboard_preview-.png)
+![Dashboard](dashboard.png)
